@@ -5,9 +5,8 @@ Built with **Python, Streamlit, Plotly, and Pandas**.
 
 ---
 
-## 🌐 Live Demo
-👉 [Stock Prediction App](https://YOUR-APP-URL.streamlit.app/)  
-*(Replace with your Streamlit Cloud link after deploying)*
+## 🌐 Demo
+👉 https://www.linkedin.com/feed/update/urn:li:activity:7362757458697555968/
 
 ---
 
